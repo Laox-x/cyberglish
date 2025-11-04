@@ -292,13 +292,17 @@ Cyber Security English Vocabulary
 
 Programming English for Beginners
 
+
 🔗 Kaynak Linkleri
 
 YouTube - İngilizce konuşma pratikleri
+https://www.youtube.com/watch?v=SrIg3MSCaoM&list=PLnlXWJfDR9E-gHB0fv_1qaFc8MgCr9oJ-
 
 1000 kelime videosu
+https://www.youtube.com/watch?v=Nr0Us7y6IQg
 
 Düzensiz fiiller listesi
+https://www.wse.com.tr/ingilizce-alistirmalar/irregular-verbs-duzensiz-fiiller/
 
 🤝 Katkıda Bulunma
 
