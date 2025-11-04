@@ -32,45 +32,49 @@ Amacı, teknik terimlerin anlamlarını öğretirken aynı zamanda temel İngili
 
 Bu repo, hem İngilizce öğrenmek hem de teknik terminolojiyi kavramak isteyenler için başlangıç seviyesinde kapsamlı bir kaynaktır.
 
-🗣 Temel İngilizce Kelimeler ve İfadeler
+## 🗣 Temel İngilizce Kelimeler ve İfadeler
 
-👤 Zamirler (Pronouns)
-İngilizce   Türkçe          Açıklama
---------------------------------------------
-I           ben             Kendini ifade eder.
-You         sen / siz       Karşınızdaki kişiye hitap eder.
-We          biz             Bir grubu ifade eder.
-She         o (kadın)       Kadınlar için.
-He          o (erkek)       Erkekler için.
-It          o (cansız)      Nesne veya hayvanlar için.
-They        onlar           Çoğul ifadeler için.
+### 👤 Zamirler (Pronouns)
 
+**İngilizce – Türkçe – Açıklama**
 
-💡 Ek Kaynaklar:
+I → ben → Kendini ifade eder.  
+You → sen / siz → Karşınızdaki kişiye hitap eder.  
+We → biz → Bir grubu ifade eder.  
+She → o (kadın) → Kadınlar için.  
+He → o (erkek) → Erkekler için.  
+It → o (cansız / hayvan) → Nesne veya hayvanlar için.  
+They → onlar → Çoğul ifadeler için.  
+
+---
+
+### 💡 Ek Kaynaklar
 - **1000 Temel İngilizce Kelime Videosu:**  
-  🔗 https://www.youtube.com/watch?v=Nr0Us7y6IQg  
+  🔗 [YouTube](https://www.youtube.com/watch?v=Nr0Us7y6IQg)
 - **Düzensiz Fiil Listesi (Irregular Verbs):**  
-  🔗 https://www.wse.com.tr/ingilizce-alistirmalar/irregular-verbs-duzensiz-fiiller/
+  🔗 [wse.com.tr](https://www.wse.com.tr/ingilizce-alistirmalar/irregular-verbs-duzensiz-fiiller/)
 
+---
 
-🗣 Temel Cümle Kurma ve Konuşma Yapıları
+### 🗣 Temel Cümle Kurma ve Konuşma Yapıları
 
 Basit cümleler kurarken genellikle şu yapılar kullanılır:
 
-I am …        → Ben …
-You are …     → Sen …
-We are …      → Biz …
-He/She is …   → O …
-They are …    → Onlar …
+I am … → Ben …  
+You are … → Sen …  
+We are … → Biz …  
+He/She is … → O …  
+They are … → Onlar …  
 
+---
 
-📘 Örnekler:
-I am a student.      → Ben bir öğrenciyim.  
-You are happy.       → Sen mutlusun.  
-She is a woman.      → O bir kadın.  
-He is a man.         → O bir adam.  
-They are old.        → Onlar yaşlı.
+### 📘 Örnekler
 
+I am a student. → Ben bir öğrenciyim.  
+You are happy. → Sen mutlusun.  
+She is a woman. → O bir kadın.  
+He is a man. → O bir adam.  
+They are old. → Onlar yaşlı.  
 
 🔗 A1–A2 seviye konuşma yapıları videosu
 https://www.youtube.com/watch?v=SrIg3MSCaoM&list=PLnlXWJfDR9E-gHB0fv_1qaFc8MgCr9oJ-
