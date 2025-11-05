@@ -18,6 +18,11 @@ Kaynak Linkleri
 Bu repo, siber güvenlik ve yazılım alanına girmek isteyen ancak İngilizce yetersizliği nedeniyle zorlanan kişiler için hazırlanmıştır.
 Amacı, teknik terimlerin anlamlarını öğretirken aynı zamanda temel İngilizce pratiği kazandırmaktır.
 
+ChatGPT said:
+
+💡 Not: Bu repo İngilizce ve Türkçe olarak hazırlanmıştır.
+Repoya girildiğinde anlam bozuklukları veya kelime karışıklıkları görüyorsanız, tarayıcınızın otomatik çeviri özelliğini kapatınız.
+
 İçeriğinde:
 
 🔐 Siber güvenlikte en çok kullanılan 100 kelime
