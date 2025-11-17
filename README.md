@@ -1,5 +1,5 @@
-🔐 Siber Güvenlik ve Yazılım için İngilizce Öğrenme Reposu
-📘 İçindekiler
+Siber Güvenlik ve Yazılım için İngilizce Öğrenme Reposu
+İçindekiler
 
 Tanıtım
 
@@ -13,33 +13,33 @@ Temel Cümle Kurma ve Konuşma Yapıları
 
 Kaynak Linkleri
 
-🧠 Tanıtım
+Tanıtım
 
 Bu repo, siber güvenlik ve yazılım alanına girmek isteyen ancak İngilizce yetersizliği nedeniyle zorlanan kişiler için hazırlanmıştır.
 Amacı, teknik terimlerin anlamlarını öğretirken aynı zamanda temel İngilizce pratiği kazandırmaktır.
 
 ChatGPT said:
 
-💡 Not: Bu repo İngilizce ve Türkçe olarak hazırlanmıştır.
+Not: Bu repo İngilizce ve Türkçe olarak hazırlanmıştır.
 Repoya girildiğinde anlam bozuklukları veya kelime karışıklıkları görüyorsanız, tarayıcınızın otomatik çeviri özelliğini kapatınız.
 
 İçeriğinde:
 
-🔐 Siber güvenlikte en çok kullanılan 100 kelime
+Siber güvenlikte en çok kullanılan 100 kelime
 
-💻 Yazılımda en çok kullanılan 100 kelime
+Yazılımda en çok kullanılan 100 kelime
 
-🗣 Temel İngilizce ifadeler
+Temel İngilizce ifadeler
 
-📘 A1–A2 seviyesinde cümle kurma yapıları
+A1–A2 seviyesinde cümle kurma yapıları
 
-🎥 Videolu kaynaklar ve linkler
+Videolu kaynaklar ve linkler
 
 Bu repo, hem İngilizce öğrenmek hem de teknik terminolojiyi kavramak isteyenler için başlangıç seviyesinde kapsamlı bir kaynaktır.
 
-## 🗣 Temel İngilizce Kelimeler ve İfadeler
+## Temel İngilizce Kelimeler ve İfadeler
 
-### 👤 Zamirler (Pronouns)
+### Zamirler (Pronouns)
 
 **İngilizce – Türkçe – Açıklama**
 
@@ -53,15 +53,15 @@ They → onlar → Çoğul ifadeler için.
 
 ---
 
-### 💡 Ek Kaynaklar
+### Ek Kaynaklar
 - **1000 Temel İngilizce Kelime Videosu:**  
-  🔗 [YouTube](https://www.youtube.com/watch?v=Nr0Us7y6IQg)
+  YouTube](https://www.youtube.com/watch?v=Nr0Us7y6IQg)
 - **Düzensiz Fiil Listesi (Irregular Verbs):**  
-  🔗 [wse.com.tr](https://www.wse.com.tr/ingilizce-alistirmalar/irregular-verbs-duzensiz-fiiller/)
+  [wse.com.tr](https://www.wse.com.tr/ingilizce-alistirmalar/irregular-verbs-duzensiz-fiiller/)
 
 ---
 
-### 🗣 Temel Cümle Kurma ve Konuşma Yapıları
+### Temel Cümle Kurma ve Konuşma Yapıları
 
 Basit cümleler kurarken genellikle şu yapılar kullanılır:
 
@@ -73,7 +73,7 @@ They are … → Onlar …
 
 ---
 
-### 📘 Örnekler
+### Örnekler
 
 I am a student. → Ben bir öğrenciyim.  
 You are happy. → Sen mutlusun.  
@@ -289,7 +289,7 @@ https://www.youtube.com/watch?v=SrIg3MSCaoM&list=PLnlXWJfDR9E-gHB0fv_1qaFc8MgCr9
 | deployment pipeline | dağıtım hattı |
 
 
-🎬 İngilizceyi teknik bağlamda öğrenmek için öneriler:
+İngilizceyi teknik bağlamda öğrenmek için öneriler:
 
 Learn English for Tech Professionals
 
@@ -298,7 +298,7 @@ Cyber Security English Vocabulary
 Programming English for Beginners
 
 
-🔗 Kaynak Linkleri
+Kaynak Linkleri
 
 YouTube - İngilizce konuşma pratikleri
 https://www.youtube.com/watch?v=SrIg3MSCaoM&list=PLnlXWJfDR9E-gHB0fv_1qaFc8MgCr9oJ-
@@ -309,26 +309,26 @@ https://www.youtube.com/watch?v=Nr0Us7y6IQg
 Düzensiz fiiller listesi
 https://www.wse.com.tr/ingilizce-alistirmalar/irregular-verbs-duzensiz-fiiller/
 
-🤝 Katkıda Bulunma
+Katkıda Bulunma
 
 Bu projeye katkıda bulunmak istersen:
 
-✅ Yeni İngilizce–Türkçe kelimeler ekleyebilirsin
+Yeni İngilizce–Türkçe kelimeler ekleyebilirsin
 
-💬 Örnek cümle ve açıklamalarla geliştirebilirsin
+rnek cümle ve açıklamalarla geliştirebilirsin
 
-🔗 Yeni eğitim kaynakları veya videolar önerebilirsin
+Yeni eğitim kaynakları veya videolar önerebilirsin
 
 Katkıda bulunmak için “fork → edit → pull request” sürecini izle.
 
-⚖ Lisans
+Lisans
 
 Bu proje MIT Lisansı ile korunmaktadır.
 Eğitim amaçlı serbestçe kullanılabilir, geliştirilebilir ve paylaşılabilir.
 
-📄 Lisans metni: LICENSE
+Lisans metni: LICENSE
 
-✍️ Hazırlayan
+Hazırlayan
 
 Laox-x
 
