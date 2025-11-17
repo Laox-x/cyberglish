@@ -18,7 +18,6 @@ Tanıtım
 Bu repo, siber güvenlik ve yazılım alanına girmek isteyen ancak İngilizce yetersizliği nedeniyle zorlanan kişiler için hazırlanmıştır.
 Amacı, teknik terimlerin anlamlarını öğretirken aynı zamanda temel İngilizce pratiği kazandırmaktır.
 
-ChatGPT said:
 
 Not: Bu repo İngilizce ve Türkçe olarak hazırlanmıştır.
 Repoya girildiğinde anlam bozuklukları veya kelime karışıklıkları görüyorsanız, tarayıcınızın otomatik çeviri özelliğini kapatınız.
@@ -81,8 +80,11 @@ She is a woman. → O bir kadın.
 He is a man. → O bir adam.  
 They are old. → Onlar yaşlı.  
 
-🔗 A1–A2 seviye konuşma yapıları videosu
+A1–A2 seviye konuşma yapıları videosu
 https://www.youtube.com/watch?v=SrIg3MSCaoM&list=PLnlXWJfDR9E-gHB0fv_1qaFc8MgCr9oJ-
+
+## İngilizce öğrenme süreciniz de size yardımcı olucak pdf ler ve kaynaklar
+https://can-ada.net/wp-content/uploads/2020/05/english-grammar-today-tc3bcrkc3a7e-ac3a7c4b1klamalc4b1.pdf
 
 ## 🛡 Siber Güvenliğe Özel 100 Kelime
 
