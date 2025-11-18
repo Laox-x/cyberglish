@@ -83,9 +83,14 @@ They are old. → Onlar yaşlı.
 A1–A2 seviye konuşma yapıları videosu
 https://www.youtube.com/watch?v=SrIg3MSCaoM&list=PLnlXWJfDR9E-gHB0fv_1qaFc8MgCr9oJ-
 
+...
 ## İngilizce öğrenme sürecinizde size yardımcı olacak PDF'ler ve kaynaklar
  PDF'ler ve kaynaklar
-https://can-ada.net/wp-content/uploads/2020/05/english-grammar-today-tc3bcrkc3a7e-ac3a7c4b1klamalc4b1.pdf
+
+Murat KURT tarafından yazılmış 516 sayfalık bir kitap
+English Grammar Today ingilizce öğrenmek için tavsiye edilir.
+
+...
 
 ## 🛡 Siber Güvenliğe Özel 100 Kelime
 
