@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=SrIg3MSCaoM&list=PLnlXWJfDR9E-gHB0fv_1qaFc8MgCr9
 
 ...
 ## İngilizce öğrenme sürecinizde size yardımcı olacak PDF'ler ve kaynaklar
- PDF'ler ve kaynaklar
+  **PDF'ler ve kaynaklar**
 
 Murat KURT tarafından yazılmış 516 sayfalık bir kitap
 English Grammar Today ingilizce öğrenmek için tavsiye edilir.
